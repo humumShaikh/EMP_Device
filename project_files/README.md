@@ -12,8 +12,7 @@
 6.  The charging is module is for the rechargable battery, you may skip that part
 7.  The value of the capacitance and inductance are by trial and error here, but a thing to note is that the lesser the number of turns the lesser the inductance and the higher the frequency.
 
-Note : The wavelength of the pulses generate must match with the length of the conducting tracks to successfully induce a significant amount of current to do any real disruption.
-
+Note : The wavelength of the pulses generated must match with the length of the conducting tracks to successfully induce a significant amount of current to do any real disruption.  Generally, go for λ/2  or  λ/4. 
 
 # The Final Hardware #
 
