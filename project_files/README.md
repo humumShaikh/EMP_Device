@@ -10,6 +10,9 @@
 4.  The coil is made by wrapping an enamel coated copper wire (commonly known as magnet wire) on the inner side of a pvc tape
 5.  The jumper in the middle is for added safety feature as to not activate the device on accident
 6.  The charging is module is for the rechargable battery, you may skip that part
+7.  The value of the capacitance and inductance are by trial and error here, but a thing to note is that the lesser the number of turns the lesser the inductance and the higher the frequency.
+
+Note : The wavelength of the pulses generate must match with the length of the conducting tracks to successfully induce a significant amount of current to do any real disruption.
 
 
 # The Final Hardware #
