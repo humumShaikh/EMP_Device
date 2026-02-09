@@ -1,8 +1,13 @@
+# SCHEMATIC #
 <img width="925" height="236" alt="image" src="https://github.com/user-attachments/assets/f91a2bf5-cf80-426f-bd3d-47882938eafd" />
 
 
 
-***The Final Hardware***
+# STEPS #
+
+
+
+# The Final Hardware #
 
 ![emp](https://github.com/user-attachments/assets/ac2387db-b10f-465a-92a4-b905fb93c5e6)
 
