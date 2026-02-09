@@ -7,6 +7,7 @@
 1.  The circuit is pretty much self explanatory from the schematic
 2.  The main components of the device are : High Voltage Transformer , Battery , Coil
 3.  The capacitor is made by creating a gap between the conducting wires held inside the white cylindrical casing
+4.  The coil is made by wrapping an enamel coated copper wire (commonly known as magnet wire) on the inner side of a pvc tape
 
 
 # The Final Hardware #
